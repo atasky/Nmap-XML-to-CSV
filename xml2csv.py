@@ -2,7 +2,7 @@
 
 
 # Credit where credit is due...
-__author__ = 'Jake Miller (@LaconicWolf)'
+__author__ = 'hidd3n (@atasky)'
 __date__ = '20171220'
 __version__ = '0.01'
 __description__ = """Parses the XML output from an nmap scan. The user
